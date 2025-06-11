@@ -1,0 +1,33 @@
+/* css document */
+p {
+	color: aliceblue;
+	font-family: "Lucida Console", "Courier New", monospace;
+	font-size: 17px;
+	line-height: 25px;
+	width: 1200px;
+	background-color: azure;
+	padding: 25px;
+	
+}
+h2{
+	font-family: "Lucida Console", "Courier New", monospace;
+	color: white;
+}
+h3, ol, ul{
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+body{
+	background-color: lightseagreen;
+	border: 10px solid teal;
+
+}
+a {
+	color: aliceblue;
+	line-height: 25px;
+}
+p,h1,h2,h3,ol,ul,body,a{
+	margin-top: 25px;
+  margin-bottom: 75px;
+  margin-right: 50px;
+  margin-left: 50px;
+}
